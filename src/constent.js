@@ -1,0 +1,7 @@
+export const ADDITION='+'
+export const SUBTRACTION= '-'
+export const DIVISION = '/'
+export const MULTIPLICATION = '*'
+export const CLOSE = 'CLOSE'
+export const RESULT = 'RESULT'
+export const NUMBER = 'NUMBER'
